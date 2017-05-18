@@ -1,0 +1,3 @@
+34567890123456
+3.14596265359
+This is a relatively short string
