@@ -1,0 +1,4 @@
+<root>
+	<child val="One" val2="uga" />
+	<child val="Two" />
+</root>
